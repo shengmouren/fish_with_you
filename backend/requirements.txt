@@ -1,0 +1,8 @@
+# Django后端依赖
+Django>=5.2.1
+django-cors-headers>=4.3.1
+djangorestframework>=3.15.0
+pytz>=2024.1
+sqlparse>=0.5.3
+asgiref>=3.8.1
+mysqlclient>=2.2.0  # MySQL数据库连接器
